@@ -220,6 +220,8 @@ p.tituloStats{
 }
 img.grande{
     filter:  drop-shadow(-1px 1px 10px rgb(10, 0, 146));
+     max-width: 100%;
+  height: auto;
 }
 p.estadistica{
     background-color: var(--colorSectionMain);
