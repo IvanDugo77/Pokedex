@@ -59,13 +59,13 @@ escribeMensaje("Introduzca un número o un nombre Pokémon en el buscador...");
         <p class="tituloStats"></p>
         <p class="estadistica">Peso: ${peso/10} kg</p>
         <p class="tituloStats"></p>
-        <p class="estadistica">Vida: ${vida}</p>  
+        <p class="estadistica">Vida: ${vida} Puntos</p>  
         <p class="tituloStats"></p>
-        <p class="estadistica">Ataque: ${ataque}</p> 
+        <p class="estadistica">Ataque: ${ataque} Puntos</p> 
         <p class="tituloStats"></p>
-        <p class="estadistica">Defensa: ${defensa}</p> 
+        <p class="estadistica">Defensa: ${defensa} Puntos</p> 
         <p class="tituloStats"></p>
-        <p class="estadistica">Velocidad: ${velocidad}</p> 
+        <p class="estadistica">Velocidad: ${velocidad} Puntos</p> 
         <p class="tituloStats"></p>
         <p class="estadistica">Tipo: ${tiposCorregido}</p> 
         <div>
